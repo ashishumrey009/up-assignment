@@ -20,7 +20,7 @@ You will also see any lint errors in the console.
 Database file is given as database-dump.sql
 
 ### For Application
-In The dash boad list of category is given when you click All it will show all the category.
+In The dash boad list of category is given when you click All it will show all the category.<br />
 In order to see the functionality click on "burger" tab in category where you can see the filter as well as search functionality.
 
 
